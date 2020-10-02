@@ -1,1 +1,1 @@
-# First-repositary
+# First-repository
